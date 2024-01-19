@@ -7818,10 +7818,10 @@ jsprim@^1.2.2:
     json-schema "0.4.0"
     verror "1.10.0"
 
-jsrsasign@^10.2.0:
-  version "10.5.2"
-  resolved "https://registry.yarnpkg.com/jsrsasign/-/jsrsasign-10.5.2.tgz#64da4c71873009e4c5068c686fff9116933664c9"
-  integrity sha512-N5vA6bgf/QBuWJmDMdIIRuRt8xars/Za3gyrNo4bedkAEmZGQ4p3mHW96d70LWJWAz+EPWFg3uatDGDjVA7t6Q==
+jsrsasign@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/jsrsasign/-/jsrsasign-11.0.0.tgz#766570c21f87d68075a142f5188f7e583cee9d70"
+  integrity sha512-BtRwVKS+5dsgPpAtzJcpo5OoWjSs1/zllSBG0+8o8/aV0Ki76m6iZwHnwnsqoTdhfFZDN1XIdcaZr5ZkP+H2gg==
 
 "jsx-ast-utils@^2.4.1 || ^3.0.0":
   version "3.2.1"
